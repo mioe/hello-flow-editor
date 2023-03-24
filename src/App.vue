@@ -76,6 +76,46 @@ const logs: Ref<string[]> = ref([])
 				>https://github.com/konvajs/konva</a>
 				- MIT
 			</p>
+			<br>
+			<div class="text-[10px]">
+				<p>
+					demos:
+				</p>
+				<div class="flex flex-col">
+					<p class="color-yellow-300">
+						html + svg
+					</p>
+					<a
+						href="https://www.jointjs.com/demos/chatbot"
+						target="_blank"
+					>
+						https://www.jointjs.com/demos/chatbot
+					</a>
+					<a
+						href="https://codesandbox.io/s/baklavajs-example-jyc6f"
+						target="_blank"
+					>
+						baklavajs demo
+					</a>
+					<a
+						href="https://jerosoler.github.io/Drawflow/"
+						target="_blank"
+					>
+						https://jerosoler.github.io/Drawflow/
+					</a>
+				</div>
+				<div class="pt-[4px] flex flex-col">
+					<p class="color-red-300">
+						canvas + interactive html
+					</p>
+					<a
+						href="https://tamats.com/projects/litegraph/editor/"
+						target="_blank"
+					>
+						https://tamats.com/projects/litegraph/editor/
+					</a>
+				</div>
+			</div>
 		</section>
 
 		<BaklavaJs
