@@ -1,5 +1,17 @@
 import { createApp } from 'vue'
-import './style.css'
+// @ts-ignore
 import App from './App.vue'
+import VueKonva from 'vue-konva'
 
-createApp(App).mount('#app')
+/**
+ * Styles
+ */
+import 'uno.css'
+import './style.css'
+
+/**
+ * init app
+ */
+createApp(App)
+	.use(VueKonva)
+	.mount('#app')
