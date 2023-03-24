@@ -114,6 +114,18 @@ const logs: Ref<string[]> = ref([])
 					>
 						https://tamats.com/projects/litegraph/editor/
 					</a>
+					<a
+						href="https://gojs.net/latest/samples/flowchart.html"
+						target="_blank"
+					>
+						https://gojs.net/latest/samples/flowchart.html
+					</a>
+					<a
+						href="https://gojs.net/latest/samples/pageFlow.html"
+						target="_blank"
+					>
+						https://gojs.net/latest/samples/pageFlow.html
+					</a>
 				</div>
 			</div>
 		</section>
